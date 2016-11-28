@@ -1,6 +1,6 @@
 
 
-var myNeighborhoods = {
+var request = {
 	"firstName": "Chris",
 	"lastName": "Foster",
 	"city": "Philadelphia",
@@ -96,10 +96,17 @@ var myNeighborhoods = {
 				}
 			]
 		}
-	]
+	],
+	allNeighborhoods: allNeighborhoods,
+	listNeighborhoods: listNeighborhoods,
+	listEateries: listEateries,
+	neighborhoodsLivedIn: neighborhoodsLivedIn,
+	searchKeyword: keywordSearch
 }
 
 var neighborhoods = myNeighborhoods.neighborhoodsVisited;
+
+
 
 function allNeighborhoods() {
 	return neighborhoods;
