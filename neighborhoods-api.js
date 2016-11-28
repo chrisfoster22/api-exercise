@@ -59,7 +59,7 @@ var request = {
 				},
 				{
 					"eateryName": "Rybread",
-					"yelpUrl": "https://www.yelp.com/biz/vineyards-cafe-philadelphia",
+					"yelpUrl": "https://www.yelp.com/biz/rybread-philadelphia",
 					"keywords": ["coffee", "breakfast"]
 				}
 			]
