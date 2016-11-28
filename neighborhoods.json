@@ -1,0 +1,95 @@
+// {
+// 	"neighborhoods": [
+// 		{
+// 			"neighborhoodName": "Fishtown",
+// 			"haveLivedIn": false,
+// 			"favoriteEateries": [
+// 				{
+// 					"eateryName": "Girard",
+// 					"yelpUrl": "https://www.yelp.com/biz/girard-philadelphia-3",
+// 					"keywords": ["brunch", "french"]
+// 				},
+// 				{
+// 					"eateryName": "La Colombe",
+// 					"yelpUrl": "https://www.yelp.com/biz/la-colombe-coffee-philadelphia",
+// 					"keywords": ["coffee"]
+// 				}
+// 			]
+// 		},
+// 		{
+// 			"neighborhoodName": "Francisville",
+// 			"haveLivedIn": true,
+// 			"favoriteEateries": [
+// 				{
+// 					"eateryName": "Vineyards Cafe",
+// 					"yelpUrl": "https://www.yelp.com/biz/vineyards-cafe-philadelphia",
+// 					"keywords": ["coffee", "breakfast", "crepes", "studying"]
+// 				}
+// 			]
+// 		},
+// 		{
+// 			"neighborhoodName": "Queen Village",
+// 			"haveLivedIn": false,
+// 			"favoriteEateries": [
+// 				{
+// 					"eateryName": "Red Hook Coffee and Tea",
+// 					"yelpUrl": "https://www.yelp.com/biz/red-hook-coffee-and-tea-philadelphia",
+// 					"keywords": ["coffee", "breakfast", "studying"]
+// 				},
+// 				{
+// 					"eateryName": "Shot Tower Coffee",
+// 					"yelpUrl": "https://www.yelp.com/biz/shot-tower-coffee-philadelphia-2",
+// 					"keywords": ["coffee", "studying"]
+// 				}
+// 			]
+// 		},
+// 		{
+// 			"neighborhoodName": "Fairmount",
+// 			"haveLivedIn": true,
+// 			"favoriteEateries": [
+// 				{
+// 					"eateryName": "La Calaca Feliz",
+// 					"yelpUrl": "https://www.yelp.com/biz/la-calaca-feliz-philadelphia",
+// 					"keywords": ["dinner", "mexican"]
+// 				},
+// 				{
+// 					"eateryName": "Rybread",
+// 					"yelpUrl": "https://www.yelp.com/biz/vineyards-cafe-philadelphia",
+// 					"keywords": ["coffee", "breakfast"]
+// 				}
+// 			]
+// 		},
+// 		{
+// 			"neighborhoodName": "Kensington",
+// 			"haveLivedIn": true,
+// 			"favoriteEateries": [
+// 				{
+// 					"eateryName": "Quick Stop",
+// 					"yelpUrl": "https://www.yelp.com/biz/quick-stop-1-philadelphia",
+// 					"keywords": ["cheap"]
+// 				}
+// 			]
+// 		},
+// 		{
+// 			"neighborhoodName": "Rittenhouse",
+// 			"haveLivedIn": false, 
+// 			"favoriteEateries": [
+// 				{
+// 					"eateryName": "Hip City Veg",
+// 					"yelpUrl": "https://www.yelp.com/biz/hipcityveg-philadelphia",
+// 					"keywords": ["lunch", "vegan"]
+// 				},
+// 				{
+// 					"eateryName": "Di Bruno Brothers",
+// 					"yelpUrl": "https://www.yelp.com/biz/di-bruno-bros-philadelphia",
+// 					"keywords": ["lunch"]
+// 				},
+// 				{
+// 					"eateryName": "Metropolitan Bakery",
+// 					"yelpUrl": "https://www.yelp.com/biz/metropolitan-bakery-philadelphia-4?osq=Metropolitan+Bakery",
+// 					"keywords": ["lunch", "coffee", "bread"]
+// 				}
+// 			]
+// 		}
+// 	]
+// }
