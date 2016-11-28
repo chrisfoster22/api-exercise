@@ -2,11 +2,11 @@ $(document).ready(function() {
 
 	var coffee = request.searchKeyword("coffee");
 
-	for (var i=0; i < coffee.length; i++) {
+	$.each(coffee, function(index, coffeeShop) {
 		var titleDiv = $("<div></div>");
 		titleDiv.addClass('listing');
-		titleDiv.append('<div>' +coffee[i].eateryName + '</div>');
+		titleDiv.append('<div>' +coffeeShop.eateryName + '</div>');
 		$('#content').append(titleDiv);
-	}
+	});
 
 })
