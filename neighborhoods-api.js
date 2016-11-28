@@ -104,7 +104,7 @@ var request = {
 	searchKeyword: keywordSearch
 }
 
-var neighborhoods = myNeighborhoods.neighborhoodsVisited;
+var neighborhoods = request.neighborhoodsVisited;
 
 
 
